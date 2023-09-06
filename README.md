@@ -10,6 +10,6 @@ https://www.rakamin.com/dashboard/homework-exam/55590
 1. Muhamad Komar Hidayat | https://github.com/komarkun |
 2. Ayu Permata Widya Nurizma | https://github.com/WidyaNurizma |
 3. Kelvin Pahotton Simamora | https://github.com/kelvin77777|
-4. c
+4. Alfan Kasyfil Aziz |https://github.com/Poh4|
 5. d
 6. e
