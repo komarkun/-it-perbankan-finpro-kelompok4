@@ -1,4 +1,4 @@
-﻿# it-perbankan-finpro-kelompok4
+# it-perbankan-finpro-kelompok4
 
 ## TSA IT Perbankan
 https://www.rakamin.com/
