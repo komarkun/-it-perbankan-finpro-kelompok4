@@ -15,3 +15,4 @@ https://www.rakamin.com/dashboard/homework-exam/55590
 6. Andrew Jonatan Damanik | https://github.com/drewjd27 |
 7. Rizky Hamdani Sakti | https://github.com/Rizkyhamm |
 8. Siti Norhalisa | https://github.com/sitinorhalisaa11 |
+9. Setiawan | https://github.com/magdubi |
